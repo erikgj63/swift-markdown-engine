@@ -12,6 +12,11 @@ DerivedData/
 *.xcodeproj/project.xcworkspace/xcuserdata/
 *.xcodeproj/xcuserdata/
 
+# Local app builds and Symphony workspaces
+dist/
+.derived/
+.symphony/
+
 # Generated documentation
 /docs
 *.doccarchive
